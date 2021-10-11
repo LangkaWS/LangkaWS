@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Aurore, aka Langka
 <p align="center">
-  <a href="https://langkaws.github.io/"><img src="http://img.shields.io/badge/Webiste_(FR)-langkaws.github.io-4285F4?style=flat&logo=Google-Chrome&logoColor=4285F4&labelColor=FFFFFF&link=https://langkaws.github.io/" alt="Langka's website" /></a>
+  <a href="https://langkaws.github.io/"><img src="http://img.shields.io/badge/Website_(FR)-langkaws.github.io-4285F4?style=flat&logo=Google-Chrome&logoColor=4285F4&labelColor=FFFFFF&link=https://langkaws.github.io/" alt="Langka's website" /></a>
   <a href="mailto:langkaws@outlook.com"><img src="http://img.shields.io/badge/Email-langkaws@outlook.com-005FF9?style=flat&logo=Mail.Ru&logoColor=005FF9&labelColor=FFFFFF" alt="Langka's email" /></a>
   <a href="https://www.linkedin.com/in/aurore-weingartner/"><img src="https://img.shields.io/badge/LinkedIn-Aurore-0A66C2?style=flat&logo=LinkedIn&logoColor=0A66C2&labelColor=FFFFFF&link=https://www.linkedin.com/in/aurore-weingartner/" alt="Langka's LinkedIn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-Arkia%235145-5865F2?style=flat&logo=Discord&labelColor=FFFFFF" alt="Langka's Discord" /></a>
@@ -96,7 +96,7 @@ I want to deepen my skills in JavaScript, Node.js, Angular and learn new concept
 <h2 align="center">✉️ Contact me!</h2>
 <p align="center">Choose your way!</p>
 <p align="center">
-  <a href="https://langkaws.github.io/"><img src="http://img.shields.io/badge/Webiste_(FR)-langkaws.github.io-4285F4?style=flat&logo=Google-Chrome&logoColor=4285F4&labelColor=FFFFFF&link=https://langkaws.github.io/" alt="Langka's website" /></a>
+  <a href="https://langkaws.github.io/"><img src="http://img.shields.io/badge/Website_(FR)-langkaws.github.io-4285F4?style=flat&logo=Google-Chrome&logoColor=4285F4&labelColor=FFFFFF&link=https://langkaws.github.io/" alt="Langka's website" /></a>
   <a href="mailto:langkaws@outlook.com"><img src="http://img.shields.io/badge/Email-langkaws@outlook.com-005FF9?style=flat&logo=Mail.Ru&logoColor=005FF9&labelColor=FFFFFF" alt="Langka's email" /></a>
   <a href="https://www.linkedin.com/in/aurore-weingartner/"><img src="https://img.shields.io/badge/LinkedIn-Aurore-0A66C2?style=flat&logo=LinkedIn&logoColor=0A66C2&labelColor=FFFFFF&link=https://www.linkedin.com/in/aurore-weingartner/" alt="Langka's LinkedIn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-Arkia%235145-5865F2?style=flat&logo=Discord&labelColor=FFFFFF" alt="Langka's Discord" /></a>
