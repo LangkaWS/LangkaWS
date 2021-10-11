@@ -23,6 +23,7 @@ I practiced on several projects:
 - creating a instant messaging app during my intership at Ichtus IT, with Node.js, socket.io and Vue.js (this one is private)
 - creating a Discord bot (:heart: baby [Blanco](https://github.com/LangkaWS/Blanco)) for a gaming community, with Node.js and Discord.js
 - more recently, creating a gaming website, [Vulpixy](https://github.com/LangkaWS/Vulpixy), with (I hope) board games and custom games, with Node.js, socket.io, sequelize and Angular
+
 Let's put the work aside, I'm a gamer. I mean, I **love** video games. RPG, J-RPG, adventure, action games in particular are my favorites. Otherwise, I like to felt some wool, play board games and tabletop RPGs.
 
 <h2 align="center">📅 And now?</h2>
